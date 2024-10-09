@@ -7,7 +7,7 @@ npm i
 
 npm run dev
 
-##### server uli --> http://127.0.0.1:8000/
+### http://127.0.0.1:8000/
 
 #### GET http://127.0.0.1:8000/api/v1/getdata
 #### GET http://127.0.0.1:8000/api/v1/transactions
@@ -22,4 +22,4 @@ npm i
 
 npm run dec
 
-##### frontend url --> http://127.0.0.1:5173/
+#### http://127.0.0.1:5173/
